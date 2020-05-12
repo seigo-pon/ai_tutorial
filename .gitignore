@@ -138,5 +138,7 @@ dmypy.json
 *.jpg
 *.m4v
 *.mp4
+*.txt
 fish
 best_fish
+lang_data
