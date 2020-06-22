@@ -139,7 +139,10 @@ dmypy.json
 *.m4v
 *.mp4
 *.txt
+*.bz2
+*.wp2txt
 fish
 best_fish
 lang_data
 mecab-ipadic-neologd
+*.model
