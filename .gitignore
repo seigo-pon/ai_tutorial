@@ -148,3 +148,5 @@ mecab-ipadic-neologd
 *.model
 book
 *.json
+spam_text
+*.pickle
