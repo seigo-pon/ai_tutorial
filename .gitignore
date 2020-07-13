@@ -147,3 +147,4 @@ lang_data
 mecab-ipadic-neologd
 *.model
 book
+*.json
